@@ -11,7 +11,7 @@
 
 为最晚离开路径。
 ## 时序图四种基本路径
-![时序图](temporal%20Graph.png)
+![时序图](https://github.com/oeljeklaus-you/TempGraphPath/blob/master/temporalGraph.png)
 
 现在假设边上的数字表示为出发时间，持续时间均为1.
 
